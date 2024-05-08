@@ -1,12 +1,8 @@
 # nnstuff
+
 Resources I use for teaching topics related to machine learning and neural networks.
 
-Currently used in the following course at HMT Leipzig:
+- `neuron.ipynb`: A quick introduction to neurons, weights, biases, and dot products.
+- `dufour_peaks_regression2.ipynb`: An introduction to linear and polynomial regression based on micro timing analysis of peak data from "Bocalises Prélude" by Denis Dufour.
+- `gradient2d.ipynb`, `gradient3d.ipynb`: Interactive visualizations for gradient descent in 2D and 3D.
 
-- **1.2.4 KI und statistische Analyse im Kontext der musikologischen Forschung (WiSe 2023/24)**
-
-Instructor: Dr. phil. Egor Poliakov
-
-Schedule: Thursdays 15:15 - 16:45
-
-Location: Room G 302
