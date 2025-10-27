@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Machine learning / deep learning
+scikit-learn
+torch
+torchvision
+umap-learn
+
+# Notebook utilities and interactive widgets
+notebook
+ipywidgets
+IPython
+tqdm
+
+# Visualization helpers
+graphviz

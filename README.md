@@ -11,6 +11,9 @@ Resources I use for teaching topics related to machine learning and neural netwo
 - **`mnist_sagan` folder**: Simple SAGAN implementation for generating handwritten numbers based on the MNIST dataset, following the 2018 paper by Zhang et al.
 - **`mnist_vae` folder**: Simple VAE implementation for generating handwritten numbers based on the MNIST dataset, following the 2014 paper by Kingma and Welling. Includes some tools for neuron/latent space visualizations.
 
+### Environment Setup
+- Install notebook dependencies with `pip install -r requirements.txt`.
+
 ### References
 - [Radford et al., "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks," arXiv:1511.06434v2](https://arxiv.org/abs/1511.06434v2)
 - [Zhang et al., "Self-Attention Generative Adversarial Networks," arXiv:1805.08318](https://arxiv.org/abs/1805.08318)
